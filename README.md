@@ -2,7 +2,7 @@
 
 I'm a software engineer specialized in backend and Android development, passionate about building projects that will have a positive impact on people's lives.
 
-I really enjoy distributed systems, datastructure and algorithms and identity.
+I really enjoy datastructure and algorithms, distributed systems, identity.
 
 [![Stackoverflow Badge](https://img.shields.io/badge/-StackOverflow-black?logo=StackOverflow&link=https://stackoverflow.com/users/4872155/wilder-pereira)](https://stackoverflow.com/users/4872155/wilder-pereira)
 [![Google Play Badge](https://img.shields.io/badge/-My%20Apps-black?logo=Android&logoColor=green&link=https://play.google.com/store/apps/developer?id=Wilder+Pereira)](https://play.google.com/store/apps/developer?id=Wilder+Pereira)
