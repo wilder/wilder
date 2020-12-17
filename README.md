@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm a software engineer specialized in backend and Android development, passionate about building projects that will have a positive impact on people's lives.
+I'm a software engineer specialised in backend and Android development, passionate about building projects that will have a positive impact on people's lives.
 
 I really enjoy datastructure and algorithms, distributed systems and identity.
 
